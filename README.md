@@ -15,3 +15,4 @@ This example assumes that you have a Opesnhift cluster installed and running, an
     oc create -f https://raw.githubusercontent.com/mangirdaz/redis-openshift/master/list.yaml
     #start build and watch 
     oc start-build redis-build
+
